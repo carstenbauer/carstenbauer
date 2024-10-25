@@ -26,6 +26,6 @@ I regularly run [workshops](https://carstenbauer.eu/#workshops) about Julia for 
 - [carstenbauer/JuliaHLRS24](https://github.com/carstenbauer/JuliaHLRS24/) ([High-Performance Computing Center Stuttgart](https://www.hlrs.de/))
 - [carstenbauer/JuliaUCL24](https://github.com/carstenbauer/JuliaUCL24/) ([University College London](https://www.ucl.ac.uk/advanced-research-computing/))
 
-  I'm the main author of [Julia On HPC Clusters](https://juliahpc.github.io/).
+I'm the main author of [Julia On HPC Clusters](https://juliahpc.github.io/).
 
 Further information at [https://carstenbauer.eu](https://carstenbauer.eu). Feel free to reach out!
