@@ -28,4 +28,4 @@ I regularly run [workshops](https://carstenbauer.eu/#workshops) about Julia for 
 
 I'm the main author of [Julia On HPC Clusters](https://juliahpc.github.io/).
 
-Further information at [https://carstenbauer.eu](https://carstenbauer.eu). Feel free to reach out!
+Find further information on [my website](https://carstenbauer.eu). Feel free to reach out!
