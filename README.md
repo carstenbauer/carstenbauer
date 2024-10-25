@@ -7,7 +7,7 @@ Here are some OSS projects to which I've made significant contributions (code, c
 - [JuliaFolds2/OhMyThreads.jl](https://github.com/JuliaFolds2/OhMyThreads.jl): simple high-level multithreading framework
 - [JuliaParallel/Hwloc.jl](https://github.com/JuliaParallel/Hwloc.jl): high-level wrapper of the [hwloc library](http://www.open-mpi.org/projects/hwloc/).
 - [JuliaLinearAlgebra/BLISBLAS.jl](https://github.com/JuliaLinearAlgebra/BLISBLAS.jl): Julia interface for the BLAS-like Library Instantiation Software Framework [blis](https://github.com/flame/blis).
-- [carstenbauer/ThreadPinning.jl](https://github.com/carstenbauer/ThreadPinning.jl): interactive pinning of Julia threads to hardware threads, supports multithreaded and distributed Julia applications.
+- [carstenbauer/ThreadPinning.jl](https://github.com/carstenbauer/ThreadPinning.jl): interactive pinning of Julia threads to hardware threads, for multithreaded and distributed applications.
 - [carstenbauer/StableDQMC.jl](https://github.com/carstenbauer/StableDQMC.jl): numerical stabilization routines for determinant quantum Monte Carlo
 - [carstenbauer/MonteCarlo.jl](https://github.com/carstenbauer/MonteCarlo.jl): framework for classical and quantum Monte Carlo simulations in Julia
 - [carstenbauer/BinningAnalysis.jl](https://github.com/carstenbauer/BinningAnalysis.jl): statistical standard error estimation tools for correlated data
