@@ -16,7 +16,7 @@ Here are some OSS projects to which I've made significant contributions (code, c
 - [JuliaPerf/ScoreP.jl](https://github.com/JuliaPerf/ScoreP.jl): tracing and profiling Julia code with [Score-P](https://www.vi-hps.org/projects/score-p/).
 - [pc2/GPUInspector.jl](https://github.com/pc2/GPUInspector.jl): inspecting high-performance (multi-)GPU systems with Julia
 - [JuliaPerf/LinuxPerf.jl](https://github.com/JuliaPerf/LinuxPerf.jl): Julia wrapper for Linux's perf performance analysis tool.
-- [JuliaParallel/MPI.jl](https://github.com/JuliaParallel/MPI.jl): Julia interface for the [Message Passing Interface (MPI)](https://www.mpi-forum.org/) for distributed parallel computing. I've been the primary maintainer for the past few years.
+- [JuliaParallel/MPI.jl](https://github.com/JuliaParallel/MPI.jl): Julia interface for the [Message Passing Interface (MPI)](https://www.mpi-forum.org/) for distributed parallel computing.
 - [JuliaGPU/NVTX.jl](https://github.com/JuliaGPU/NVTX.jl): Julia interface for Nvidia's NVTX instrumentation library, for use with [Nvidia's Nsight Systems profiler](https://developer.nvidia.com/nsight-systems).
 - [JuliaPerf/IntelITT.jl](https://github.com/JuliaPerf/IntelITT.jl): Julia interface for the Intel Instrumentation and Tracing APIs
 
