@@ -5,6 +5,7 @@ Here are some OSS projects to which I've made significant contributions (code, c
 - [JuliaLang/julia](https://github.com/JuliaLang/julia/): I'm contributing to the [Julia programming language / community](https://julialang.org/) in various forms since 2016.
 - [JuliaPerf/LIKWID.jl](https://github.com/JuliaPerf/LIKWID.jl): low-level hardware performance monitoring based on [LIKWID](https://github.com/RRZE-HPC/likwid).
 - [JuliaFolds2/OhMyThreads.jl](https://github.com/JuliaFolds2/OhMyThreads.jl): simple high-level multithreading framework
+- [JuliaFolds2/ChunkSplitters.jl](https://github.com/JuliaFolds2/ChunkSplitters.jl): splitting collections into chunks (for parallel processing)
 - [JuliaParallel/Hwloc.jl](https://github.com/JuliaParallel/Hwloc.jl): high-level wrapper of the [hwloc library](http://www.open-mpi.org/projects/hwloc/).
 - [JuliaLinearAlgebra/BLISBLAS.jl](https://github.com/JuliaLinearAlgebra/BLISBLAS.jl): Julia interface for the BLAS-like Library Instantiation Software Framework [blis](https://github.com/flame/blis).
 - [carstenbauer/ThreadPinning.jl](https://github.com/carstenbauer/ThreadPinning.jl): interactively pin Julia threads to hardware threads (MPI+Threads support).
