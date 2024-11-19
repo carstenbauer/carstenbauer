@@ -20,7 +20,7 @@ Here are some OSS projects to which I've made significant contributions (code, c
 - [JuliaGPU/NVTX.jl](https://github.com/JuliaGPU/NVTX.jl): Julia interface for Nvidia's NVTX instrumentation library, for use with [Nvidia's Nsight Systems profiler](https://developer.nvidia.com/nsight-systems).
 - [JuliaPerf/IntelITT.jl](https://github.com/JuliaPerf/IntelITT.jl): Julia interface for the Intel Instrumentation and Tracing APIs
 - [pc2/GPUInspector.jl](https://github.com/pc2/GPUInspector.jl): inspecting high-performance (multi-)GPU systems with Julia
-- 
+
 I regularly run [workshops](https://carstenbauer.eu/#workshops) about Julia for High-Performance Computing at research institutions and HPC centers. To get an impression, feel free to check out these repos:
 
 - [carstenbauer/JuliaDeltft24](https://github.com/carstenbauer/JuliaDelft24/) ([TU Delft](https://tudelft.nl/))
