@@ -11,13 +11,12 @@ Here are a few selected OSS projects to which I've made significant contribution
 - [JuliaPerf/ScoreP.jl](https://github.com/JuliaPerf/ScoreP.jl): tracing and profiling Julia code with [Score-P](https://www.vi-hps.org/projects/score-p/).
 - [carstenbauer/MonteCarlo.jl](https://github.com/carstenbauer/MonteCarlo.jl): framework for classical and quantum Monte Carlo simulations in Julia
 - [carstenbauer/BinningAnalysis.jl](https://github.com/carstenbauer/BinningAnalysis.jl): statistical standard error estimation tools for correlated data
+- ...
 
 I regularly run [workshops](https://carstenbauer.eu/#workshops) about Julia for High-Performance Computing at research institutions and HPC centers. To get an impression, feel free to check out these repos:
 
 - [carstenbauer/JuliaDeltft24](https://github.com/carstenbauer/JuliaDelft24/) ([TU Delft](https://tudelft.nl/))
 - [carstenbauer/JuliaHLRS24](https://github.com/carstenbauer/JuliaHLRS24/) ([High-Performance Computing Center Stuttgart](https://www.hlrs.de/))
 - [carstenbauer/JuliaUCL24](https://github.com/carstenbauer/JuliaUCL24/) ([University College London](https://www.ucl.ac.uk/advanced-research-computing/))
-
-I'm the main author of [Julia On HPC Clusters](https://juliahpc.github.io/).
 
 Find further information on [my website](https://carstenbauer.eu). Feel free to reach out!
