@@ -7,8 +7,6 @@ Here are a few selected OSS projects to which I've made significant contribution
 - [carstenbauer/ThreadPinning.jl](https://github.com/carstenbauer/ThreadPinning.jl): interactively pin Julia threads to hardware threads (MPI+Threads support).
 - [JuliaPerf/LIKWID.jl](https://github.com/JuliaPerf/LIKWID.jl): low-level hardware performance monitoring based on [LIKWID](https://github.com/RRZE-HPC/likwid).
 - [JuliaFolds2/ChunkSplitters.jl](https://github.com/JuliaFolds2/ChunkSplitters.jl): splitting collections into chunks (for parallel processing)
-- [JuliaParallel/Hwloc.jl](https://github.com/JuliaParallel/Hwloc.jl): high-level wrapper of the [hwloc library](http://www.open-mpi.org/projects/hwloc/).
-- [JuliaPerf/NUMA.jl](https://github.com/JuliaPerf/NUMA.jl): NUMA tools (mostly from [libnuma](https://man7.org/linux/man-pages/man3/numa.3.html)) for Julia
 - [JuliaPerf/STREAMBenchmark.jl](https://github.com/JuliaPerf/STREAMBenchmark.jl): [STREAM](https://www.cs.virginia.edu/stream/) maximal memory bandwidth benchmark in Julia
 - [JuliaPerf/ScoreP.jl](https://github.com/JuliaPerf/ScoreP.jl): tracing and profiling Julia code with [Score-P](https://www.vi-hps.org/projects/score-p/).
 - [carstenbauer/MonteCarlo.jl](https://github.com/carstenbauer/MonteCarlo.jl): framework for classical and quantum Monte Carlo simulations in Julia
