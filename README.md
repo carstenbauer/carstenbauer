@@ -1,6 +1,6 @@
 ### Hi, I'm Carsten
 
-I regularly run [workshops](https://carstenbauer.eu/#workshops) about Julia for High-Performance Computing at research institutions and HPC centers. To get an impression, feel free to check out these repos:
+Among other things, I run [workshops](https://carstenbauer.eu/#workshops) about Julia for High-Performance Computing. To get an impression, feel free to check out these repos:
 
 - [carstenbauer/JuliaHLRS25](https://github.com/carstenbauer/JuliaHLRS25/) ([High-Performance Computing Center Stuttgart](https://www.hlrs.de/))
 - [carstenbauer/JuliaDeltft24](https://github.com/carstenbauer/JuliaDelft24/) ([TU Delft](https://tudelft.nl/))
